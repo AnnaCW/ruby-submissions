@@ -2,7 +2,7 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 
 ### Anna Weisbrodt
 
-gist:
+gist: https://gist.github.com/AnnaCW/8dee29557a300c6680c9778eed4b64ed
 
 ### Brian Sayler
 
